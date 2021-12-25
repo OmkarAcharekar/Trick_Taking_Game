@@ -1,0 +1,9 @@
+#require "ounit2";;
+#require "yojson";;
+#require "ANSITerminal";;
+#directory "_build";;
+#load "card.cmo";;
+#load "player.cmo";;
+#load "deck.cmo";;
+#load "round.cmo";;
+#load "table.cmo";;
